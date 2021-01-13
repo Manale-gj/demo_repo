@@ -1,0 +1,196 @@
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40354: Connection timed out
+Retrying.
+
+--2021-01-13 13:55:51--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 2) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40322: Connection timed out
+Retrying.
+
+--2021-01-13 13:58:03--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 3) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40084: Connection timed out
+Retrying.
+
+--2021-01-13 14:00:17--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 4) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40293: Connection timed out
+Retrying.
+
+--2021-01-13 14:02:32--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 5) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40235: Connection timed out
+Retrying.
+
+--2021-01-13 14:04:48--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 6) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40493: Connection timed out
+Retrying.
+
+--2021-01-13 14:07:04--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 7) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40413: Connection timed out
+Retrying.
+
+--2021-01-13 14:09:22--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 8) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40120: Connection timed out
+Retrying.
+
+--2021-01-13 14:11:40--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try: 9) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40403: Connection timed out
+Retrying.
+
+--2021-01-13 14:14:01--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:10) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40278: Connection timed out
+Retrying.
+
+--2021-01-13 14:16:21--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:11) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40066: Connection timed out
+Retrying.
+
+--2021-01-13 14:18:42--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:12) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40397: Connection timed out
+Retrying.
+
+--2021-01-13 14:21:04--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:13) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40059: Connection timed out
+Retrying.
+
+--2021-01-13 14:23:25--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:14) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40385: Connection timed out
+Retrying.
+
+--2021-01-13 14:25:46--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:15) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40448: Connection timed out
+Retrying.
+
+--2021-01-13 14:28:07--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:16) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40335: Connection timed out
+Retrying.
+
+--2021-01-13 14:30:29--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:17) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40448: Connection timed out
+Retrying.
+
+--2021-01-13 14:32:50--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:18) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40460: Connection timed out
+Retrying.
+
+--2021-01-13 14:35:11--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:19) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40067: Connection timed out
+Retrying.
+
+--2021-01-13 14:37:33--  ftp://ftp.ensemblgenomes.org/pub/plants/release-49/fasta/arabidopsis_thaliana/cdna/Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz
+  (try:20) => ‘Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz’
+Connecting to ftp.ensemblgenomes.org (ftp.ensemblgenomes.org)|193.62.197.75|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/plants/release-49/fasta/arabidopsis_thaliana/cdna ... done.
+==> SIZE Arabidopsis_thaliana.TAIR10.cdna.all.fa.gz ... 21129666
+==> PASV ... couldn't connect to 193.62.197.75 port 40378: Connection timed out
+Giving up.
+
